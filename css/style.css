@@ -6,3 +6,7 @@ img {
     max-width: 100%;
     height: auto;
 }
+ #main{
+     background-color: gray;
+     color: white;
+ }
